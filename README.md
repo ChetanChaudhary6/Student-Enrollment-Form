@@ -22,8 +22,8 @@ Bootstrap as frontend
 * JsonPowerDB ( As Database)
 
 # Screenshots:
-<img src="/images/Data.png">
-<img src="./images/Database.png">
+<img src="/.images/Data.png">
+<img src="/.images/DataBase.png">
 
 # Illustrations:
 * **SAVE** : If student roll number is not existed in database then we can fill other field and save in database
@@ -35,8 +35,6 @@ Bootstrap as frontend
 
 * **Initially**
 <img src="./images/Initial_Form.png">
-<img src="./images/Data.png">
-<img src="./images/DataBase.png">
 
 We need to enter roll number field first and after it will check if it is already present on the database or not
 
@@ -67,7 +65,7 @@ If it is not present in the database,then enter all other details
 
   For invalid enrollment date 
 
-   <img src="./images/Invalid_Enrollment_Data.png">
+   <img src="./images/Invalid_Enrollment_Date.png">
 
     
   
