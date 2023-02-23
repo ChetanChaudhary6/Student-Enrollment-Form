@@ -22,8 +22,8 @@ Bootstrap as frontend
 * JsonPowerDB ( As Database)
 
 # Screenshots:
-<img src="/.images/Data.png">
-<img src="/.images/DataBase.png">
+<img src="./images/Data.png">
+<img src="./images/DataBase.png">
 
 # Illustrations:
 * **SAVE** : If student roll number is not existed in database then we can fill other field and save in database
